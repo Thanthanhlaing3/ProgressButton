@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Progress Button</string>
+    <string name="submit_title">Submit</string>
+    <string name="loading_title">Loading</string>
+    <string name="success_title">Success</string>
+    <string name="info_title">0. def. = Submit \n1. click = Loading\n2. click = Error\n3. click = Success</string>
+</resources>
